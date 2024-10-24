@@ -31,7 +31,7 @@ Webtoon Explorer is a Flutter-based mobile application that allows users to expl
     ```
 2. Navigate into the project directory:
     ```bash
-    cd webtoon-explorer
+    cd webtoon_explorer
     ```
 3. Install dependencies:
     ```bash
