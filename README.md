@@ -22,6 +22,10 @@ Webtoon Explorer is a Flutter-based mobile application that allows users to expl
 
 ![image](https://github.com/user-attachments/assets/9044e1d8-ed07-44eb-9809-1ef431650051)
 
+## Video
+
+https://drive.google.com/file/d/1ElgZjUUioqF6wFTAS6XX37TcmNi75Ur3/view?usp=drive_link
+
 
 ## Installation
 
@@ -63,9 +67,7 @@ Webtoon Explorer is a Flutter-based mobile application that allows users to expl
 - `lib/widgets`: Contains reusable widgets like `WebtoonItem` and `MyBottomNavBar`.
 - `lib/services`: Handles data storage with Hive.
 
-## Video
 
-https://drive.google.com/file/d/1ElgZjUUioqF6wFTAS6XX37TcmNi75Ur3/view?usp=drive_link
 
 
 ## License
