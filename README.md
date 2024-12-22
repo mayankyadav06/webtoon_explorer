@@ -62,10 +62,11 @@ Webtoon Explorer is a Flutter-based mobile application that allows users to expl
 - `lib/screens`: Contains the main screens like `HomeScreen`, `DetailScreen`, and `FavoriteScreen`.
 - `lib/widgets`: Contains reusable widgets like `WebtoonItem` and `MyBottomNavBar`.
 - `lib/services`: Handles data storage with Hive.
-  
-## Contribution
 
-Feel free to contribute by submitting a pull request or raising an issue for any bug fixes or feature improvements.
+## Video
+
+https://drive.google.com/file/d/1ElgZjUUioqF6wFTAS6XX37TcmNi75Ur3/view?usp=drive_link
+
 
 ## License
 
